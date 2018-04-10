@@ -1,0 +1,47 @@
+h1, h2, h3, h4 {
+  text-align: center;
+}
+
+html {
+  background-color: black;
+}
+
+h1, h2 {
+  font-family: Verdana;
+  color: white;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-size:  21px;
+  font-family: Verdana;
+  color : gray;
+}
+
+img {
+  margin: 10px;
+}
+
+h4 {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+p {
+  text-align: right;
+  color: gray;
+}
+
+.center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
